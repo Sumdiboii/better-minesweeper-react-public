@@ -91,7 +91,7 @@
     <tr><td><strong>React</strong></td><td>Interactive, dynamic UI that keeps gameplay smooth and responsive ⚡</td></tr>
     <tr><td><strong>CSS</strong></td><td>Eye-catching, fluid animations and mobile-friendly design 🎨</td></tr>
     <tr><td><strong>Node.js + Express.js</strong></td><td>Robust backend powering game logic and API endpoints 🛠️</td></tr>
-    <tr><td><strong>MongoDB</strong></td><td>Persistent game data storage for your progress and achievements 💾</td></tr>
+    <tr><td><strong>MongoDB / JSON </strong></td><td>Persistent game data storage for your progress and achievements 💾</td></tr>
     <tr><td><strong>In-browser Audio Player</strong></td><td>Custom music playlist for those epic Minesweeper jams 🎶</td></tr>
   </tbody>
 </table>
@@ -146,9 +146,13 @@
 
 <h2>❤️ Why I Loved Building This</h2> <p> This project was much more than just coding—it was a nostalgic journey and a technical challenge that allowed me to combine creativity with logic. </p> <p> Each feature and design element was crafted to honor the classic Minesweeper experience, while integrating modern technologies to deliver a smooth, engaging, and fully responsive game. </p> <br> <br> <h2>👑 About the Creator</h2> <p> Sumedh Pimplikar – Full-Stack Developer passionate about building intuitive and interactive web applications. <br> Connect with me on <a href="https://linkedin.com/in/sumedh-pimplikar" target="_blank" rel="noopener noreferrer">LinkedIn</a>. </p> <br> <br> <footer> Experience Minesweeper like never before—challenging, sleek, and designed for both casual and competitive players. Dive in and enjoy the game! </footer>
 
+<p></p>
 
+<br>
+<br>
 
-
+<h2>Note</h2>
+<p>Originally, the game data was stored in a MongoDB cluster. However, due to MongoDB’s free-tier limitations and the additional costs for cluster resources, we had to switch to using JSON files for data storage. This solution allowed us to maintain functionality without incurring extra expenses.</p>
 
 
 
