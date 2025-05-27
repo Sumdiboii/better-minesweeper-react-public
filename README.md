@@ -35,7 +35,11 @@
 
 ![Screenshot 2025-05-26 182515](https://github.com/user-attachments/assets/0594190a-25ab-4527-94e9-5b9e3d7f4148)
 
+![Screenshot 2025-05-27 235114](https://github.com/user-attachments/assets/44b42ba8-efe9-4d5b-9e9c-0f79dcd08c3c)
+
 ![Screenshot 2025-05-26 182619](https://github.com/user-attachments/assets/0629d7a6-5b37-43dd-bfe9-9b4ee2b2be10)
+
+![Screenshot 2025-05-27 235429](https://github.com/user-attachments/assets/1679f71e-8bbc-45e8-9dbe-909405476923)
 
 ![Screenshot 2025-05-26 182635](https://github.com/user-attachments/assets/10b0b9ec-c0bd-4d94-a4fa-60cbe7163e86)
 
@@ -45,7 +49,7 @@
 <br>
 <br>
 <p align="center">
-  <a href="https://pokedex-gamma-two.vercel.app" target="_blank" rel="noopener noreferrer" 
+  <a href="https://better-minesweeper-react.vercel.app/" target="_blank" rel="noopener noreferrer" 
      style="text-decoration:none; font-weight:bold; font-size:2.5rem; color:#ffcb05;">
      <strong>LAUNCH BETTER MINESWEEPER</strong> 
   </a>
