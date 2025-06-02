@@ -11,6 +11,10 @@
 
 <br>
 
+![Your paragraph text (15)](https://github.com/user-attachments/assets/5d825b17-ad65-4f66-b573-0ebf20705b5e)
+
+<br>
+
 <p align="center" style="font-size: 0;">
   <img src="https://img.icons8.com/color/48/000000/bomb.png" alt="Bomb" width="60" style="margin: 0 12px;" />
   <img src="https://img.icons8.com/color/48/000000/flag.png" alt="Flag" width="60" style="margin: 0 12px;" />
