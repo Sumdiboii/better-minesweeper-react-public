@@ -11,7 +11,11 @@
 
 <br>
 
-![Your paragraph text (15)](https://github.com/user-attachments/assets/5d825b17-ad65-4f66-b573-0ebf20705b5e)
+<p align="center">
+  
+  <img src="read-me-images/Your paragraph text (15).png" alt="Descriptive Alt Text for Your Image" />
+  
+</p>
 
 <br>
 
