@@ -27,26 +27,29 @@
 
 
 
-![Screenshot 2025-05-26 175609](https://github.com/user-attachments/assets/081544e9-d1ad-442b-a834-2a7143555204)
+<p align="center">
+  
+  <img src="read-me-images/mine-sweeper-loader.png" alt="Minesweeper Loader Screen" />
+  
+  <img src="read-me-images/minesweeper-homepage.png" alt="Minesweeper Homepage" />
 
-![Screenshot 2025-05-26 175627](https://github.com/user-attachments/assets/27da9a9a-0464-40e9-b30c-67932f275a12)
+   <img src="read-me-images/Screenshot 2025-05-26 182545.png" alt="Minesweeper Screenshot 2025-05-26 182545" />
+   
+  <img src="read-me-images/minesweeper-board1.png" alt="Minesweeper Board Level 1" />
+  
+  <img src="read-me-images/minesweeper-board2.png" alt="Minesweeper Board Level 2" />
+  
+  <img src="read-me-images/minesweeper-board4.png" alt="Minesweeper Board Level 4" />
+  
+  <img src="read-me-images/Screenshot 2025-05-27 235114.png" alt="Minesweeper Screenshot 2025-05-27 235114" />
+  
+  <img src="read-me-images/minesweeper-settings.png" alt="Minesweeper Settings Page" />
+  
+  <img src="read-me-images/minesweeper-testimonials.png" alt="Minesweeper Testimonials Section" />
 
-![Screenshot 2025-05-26 182545](https://github.com/user-attachments/assets/304286dc-03c2-44d6-9e98-42fdef1e7b69)
-
-![Screenshot 2025-05-26 175727](https://github.com/user-attachments/assets/72f1dad0-20ac-4baa-94de-8eec595eb7b3)
-
-![Screenshot 2025-05-26 175747](https://github.com/user-attachments/assets/50c8489c-a80d-4977-adc6-7f2304c242a7)
-
-![Screenshot 2025-05-26 182515](https://github.com/user-attachments/assets/0594190a-25ab-4527-94e9-5b9e3d7f4148)
-
-![Screenshot 2025-05-27 235114](https://github.com/user-attachments/assets/44b42ba8-efe9-4d5b-9e9c-0f79dcd08c3c)
-
-![Screenshot 2025-05-26 182619](https://github.com/user-attachments/assets/0629d7a6-5b37-43dd-bfe9-9b4ee2b2be10)
-
-![Screenshot 2025-05-27 235429](https://github.com/user-attachments/assets/1679f71e-8bbc-45e8-9dbe-909405476923)
-
-![Screenshot 2025-05-26 182635](https://github.com/user-attachments/assets/10b0b9ec-c0bd-4d94-a4fa-60cbe7163e86)
-
+   <img src="read-me-images/Screenshot 2025-05-27 235429.png" alt="Minesweeper Screenshot 2025-05-27 235429" />
+   
+</p>
 
 
 
